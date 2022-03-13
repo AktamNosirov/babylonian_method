@@ -5,6 +5,6 @@ S=10
 d=3
 a=S-d**2/(2*d)
 b=a+d
-x=b-a*a/(2*b)
+x=b-(a*a)/(2*b)
 print(x)
 
