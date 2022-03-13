@@ -8,3 +8,4 @@ a=(S-d**2)/(2*d)
 b=a+d
 x=b-a*a/(2*b)
 print(x)
+
